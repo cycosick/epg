@@ -62,7 +62,8 @@
     "tabletojson": "^2.0.7",
     "transliteration": "^2.2.0",
     "unzipit": "^1.4.0",
-    "wildcard-match": "^5.1.2"
+    "wildcard-match": "^5.1.2",
+    "babel-loader": "^8.0.0-beta.0"
   },
   "devDependencies": {
     "eslint": "^8.17.0"
