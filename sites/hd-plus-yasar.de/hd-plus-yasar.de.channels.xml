@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site site="hd-plus-yasar.de">
+	<channels>
+		<channel lang="de" site_id="zdfneo-hd" xmltv_id="zdfneo.de">ZDF Neo</channel>
+		<channel lang="de" site_id="zdfinfo-hd" xmltv_id="zdfinfo.de">ZDF Info</channel>
+		<channel lang="de" site_id="zdf-hd" xmltv_id="zdf.de">ZDF</channel>
+		<channel lang="de" site_id="welt-der-wunder-tv" xmltv_id="weltderwundertv.de">Welt der Wunder TV</channel>
+		<channel lang="de" site_id="n24-hd" xmltv_id="welt.de">Welt</channel>
+		<channel lang="de" site_id="vox-hd" xmltv_id="vox.de">Vox Deutschland</channel>
+		<channel lang="de" site_id="universal-channel-hd" xmltv_id="universaltv.de">Universal TV Deutschland</channel>
+		<channel lang="de" site_id="tv-oberfranken" xmltv_id="tvoberfranken.de">TV Oberfranken</channel>
+		<channel lang="de" site_id="tva-ostbayern" xmltv_id="tva.de">TVA Ostbayern</channel>
+		<channel lang="de" site_id="tnt-serie-hd" xmltv_id="tntserie.de">TNT Serie</channel>
+		<channel lang="de" site_id="tnt-film" xmltv_id="tntfilm.de">TNT Film</channel>
+		<channel lang="de" site_id="tlc-hd" xmltv_id="tlc.de">TLC Germany</channel>
+		<channel lang="de" site_id="tele-5-hd" xmltv_id="tele5.de">Tele 5</channel>
+		<channel lang="de" site_id="tagesschau24-hd" xmltv_id="tagesschau24.de">Tagesschau 24</channel>
+		<channel lang="de" site_id="syfy-hd" xmltv_id="syfy.de">Syfy Deutschland</channel>
+		<channel lang="de" site_id="super-rtl-hd" xmltv_id="superrtl.de">Super RTL Deutschland</channel>
+		<channel lang="de" site_id="classica" xmltv_id="stingrayclassica.ca">Stingray Classica</channel>
+		<channel lang="de" site_id="srf-zwei-hd" xmltv_id="srfzwei.ch">SRF Zwei</channel>
+		<channel lang="de" site_id="sr-fernsehen-hd" xmltv_id="srfernsehen.de">SR Fernsehen</channel>
+		<channel lang="de" site_id="srf-1-hd" xmltv_id="srf1.ch">SRF 1</channel>
+		<channel lang="de" site_id="sportdigital" xmltv_id="sportdigital.de">Sportdigital Fussball</channel>
+		<channel lang="de" site_id="sport1-plus-hd" xmltv_id="sport1plus.de">Sport 1+</channel>
+		<channel lang="de" site_id="sport1-hd" xmltv_id="sport1.de">Sport 1</channel>
+		<channel lang="de" site_id="sonnenklar-tv-hd" xmltv_id="sonnenklartv.de">Sonnenklar TV</channel>
+		<channel lang="de" site_id="sky-sport-news-hd" xmltv_id="skysportnews.de">Sky Sport News</channel>
+		<channel lang="de" site_id="sky-bundesliga-hd-4" xmltv_id="skysportbundesliga4.de">Sky Sport Bundesliga 4</channel>
+		<channel lang="de" site_id="sky-bundesliga-hd-3" xmltv_id="skysportbundesliga3.de">Sky Sport Bundesliga 3</channel>
+		<channel lang="de" site_id="sky-bundesliga-hd-2" xmltv_id="skysportbundesliga2.de">Sky Sport Bundesliga 2</channel>
+		<channel lang="de" site_id="sky-bundesliga-hd-1" xmltv_id="skysportbundesliga1.de">Sky Sport Bundesliga 1</channel>
+		<channel lang="de" site_id="sky-sport-austria-hd" xmltv_id="skysportaustria1.at">Sky Sport Austria 1</channel>
+		<channel lang="de" site_id="sky-sport-hd-2" xmltv_id="skysport2.de">Sky Sport 2</channel>
+		<channel lang="de" site_id="sky-sport-hd-1" xmltv_id="skysport1.de">Sky Sport 1</channel>
+		<channel lang="de" site_id="sky-krimi" xmltv_id="skykrimi.de">Sky Krimi</channel>
+		<channel lang="de" site_id="sky-comedy" xmltv_id="skycomedy.de">Sky Comedy</channel>
+		<channel lang="de" site_id="sky-nostalgie" xmltv_id="skycinemaspecial.de">Sky Cinema Nostalgie</channel>
+		<channel lang="de" site_id="sky-hits-hd" xmltv_id="skycinemabestof.de">Sky Cinema Hits</channel>
+		<channel lang="de" site_id="sky-action-hd" xmltv_id="skycinemaaction.de">Sky Cinema Action</channel>
+		<channel lang="de" site_id="sky-atlantic-hd" xmltv_id="skyatlantic.de">Sky Atlantic</channel>
+		<channel lang="de" site_id="sixx-hd" xmltv_id="sixx.de">Sixx Deutschland</channel>
+		<channel lang="de" site_id="servustv-hd-deutschland" xmltv_id="servustv.de">Servus TV Deutschland</channel>
+		<channel lang="de" site_id="sat-1-gold-hd" xmltv_id="sat1gold.de">Sat. 1 Gold Deutschland</channel>
+		<channel lang="de" site_id="sat-1-emotions" xmltv_id="sat1emotions.de">Sat. 1 Emotions</channel>
+		<channel lang="de" site_id="sat-1-hd" xmltv_id="sat1.de">Sat. 1 Deutschland</channel>
+		<channel lang="de" site_id="rtl-ii-hd" xmltv_id="rtlzwei.de">RTL Zwei Deutschland</channel>
+		<channel lang="de" site_id="rtl-living" xmltv_id="rtlliving.de">RTL Living Deutschland</channel>
+		<channel lang="de" site_id="rtl-hd" xmltv_id="rtl.de">RTL Deutschland</channel>
+		<channel lang="de" site_id="rtl-crime-hd" xmltv_id="rtlcrime.de">RTL Crime Deutschland</channel>
+		<channel lang="de" site_id="romance-tv" xmltv_id="romancetv.de">Romance TV Deutschland</channel>
+		<channel lang="de" site_id="ric" xmltv_id="ric.de">RiC</channel>
+		<channel lang="de" site_id="rhein-main-tv" xmltv_id="rheinmaintv.de">RheinMain TV</channel>
+		<channel lang="de" site_id="rfo" xmltv_id="rfo.de">RFO</channel>
+		<channel lang="de" site_id="qvc-plus-hd" xmltv_id="qvc2.de">QVC Zwei</channel>
+		<channel lang="de" site_id="qvc-hd" xmltv_id="qvc.de">QVC Deutschland</channel>
+		<channel lang="de" site_id="puls-4-hd" xmltv_id="puls4.at">Puls 4</channel>
+		<channel lang="de" site_id="prosieben-maxx-hd" xmltv_id="prosiebenmaxx.de">ProSieben Maxx Deutschland</channel>
+		<channel lang="de" site_id="prosieben-hd" xmltv_id="prosieben.de">ProSieben Deutschland</channel>
+		<channel lang="de" site_id="phoenix-hd" xmltv_id="phoenix.de">Phoenix</channel>
+		<channel lang="de" site_id="pearl-tv-hd" xmltv_id="pearltv.de">Pearl TV</channel>
+		<channel lang="de" site_id="orf-sport-plus-hd" xmltv_id="orfsportplus.at">ORF Sport +</channel>
+		<channel lang="de" site_id="orf-iii-hd" xmltv_id="orfiii.at">ORF III</channel>
+		<channel lang="de" site_id="orf2" xmltv_id="orf2.at">ORF 2</channel>
+		<channel lang="de" site_id="orf-eins-hd" xmltv_id="orf1.at">ORF 1</channel>
+		<channel lang="de" site_id="one-hd" xmltv_id="one.de">One</channel>
+		<channel lang="de" site_id="n-tv-hd" xmltv_id="ntv.de">N-TV</channel>
+		<channel lang="de" site_id="nl-2" xmltv_id="npo2.nl">NPO 2</channel>
+		<channel lang="de" site_id="nl-1" xmltv_id="npo1.nl">NPO 1</channel>
+		<channel lang="de" site_id="rtl-nitro-hd" xmltv_id="nitro.de">Nitro Deutschland</channel>
+		<channel lang="de" site_id="nat-geo-wild-hd" xmltv_id="nationalgeographicwild.de">National Geographic Wild Deutschland</channel>
+		<channel lang="de" site_id="nat-geo-hd" xmltv_id="nationalgeographic.de">National Geographic Deutschland</channel>
+		<channel lang="de" site_id="muenchen-tv" xmltv_id="munchentv.de">München TV</channel>
+		<channel lang="de" site_id="mtv-live-hd" xmltv_id="mtvlive.uk">MTV Live HD</channel>
+		<channel lang="de" site_id="mtv-hits" xmltv_id="mtvhitseurope.uk">MTV Hits Europe</channel>
+		<channel lang="de" site_id="mtv-hd" xmltv_id="mtv.de">MTV Germany</channel>
+		<channel lang="de" site_id="motorvision-tv" xmltv_id="motorvisiontv.de">Motorvision TV</channel>
+		<channel lang="de" site_id="l-tv" xmltv_id="ltv.de">L TV</channel>
+		<channel lang="de" site_id="k-tv" xmltv_id="ktv.at">K-TV</channel>
+		<channel lang="de" site_id="kinowelt-tv" xmltv_id="kinowelttv.de">Kinowelt TV</channel>
+		<channel lang="de" site_id="kika-hd" xmltv_id="kika.de">KIKA</channel>
+		<channel lang="de" site_id="kabel-eins-hd" xmltv_id="kabeleins.de">Kabel Eins Deutschland</channel>
+		<channel lang="de" site_id="kabel-eins-classics" xmltv_id="kabeleinsclassics.de">Kabel Eins Classics</channel>
+		<channel lang="de" site_id="juwelo-hd" xmltv_id="juwelo.de">Juwelo</channel>
+		<channel lang="de" site_id="junior" xmltv_id="junior.de">Junior</channel>
+		<channel lang="de" site_id="jml" xmltv_id="jmldirecttv.uk">JML Direct</channel>
+		<channel lang="de" site_id="hse24-extra-hd" xmltv_id="hseextra.de">HSE Extra</channel>
+		<channel lang="de" site_id="hse24-hd" xmltv_id="hse.de">HSE</channel>
+		<channel lang="de" site_id="hr-fernsehen-hd" xmltv_id="hrfernsehen.de">HR Fernsehen</channel>
+		<channel lang="de" site_id="hope-channel" xmltv_id="hopechannelgerman.de">Hope TV Deutsch</channel>
+		<channel lang="de" site_id="history-hd" xmltv_id="history.de">History Deutschland</channel>
+		<channel lang="de" site_id="heimatkanal" xmltv_id="heimatkanal.de">Heimatkanal</channel>
+		<channel lang="de" site_id="gotv" xmltv_id="gotv.at">GoTV</channel>
+		<channel lang="de" site_id="franken-fernsehen" xmltv_id="frankenfernsehen.de">Franken Fernsehen</channel>
+		<channel lang="de" site_id="ewtn" xmltv_id="ewtn.de">EWTN auf Deutsch</channel>
+		<channel lang="de" site_id="eurosport-hd" xmltv_id="eurosport1.de">Eurosport 1 Germany</channel>
+		<channel lang="de" site_id="euronews" xmltv_id="euronewsgerman.fr">EuroNews Deutsch</channel>
+		<channel lang="de" site_id="e-entertainment-hd" xmltv_id="eeurope.us">E! Europe</channel>
+		<channel lang="de" site_id="dmax-hd" xmltv_id="dmax.de">DMAX Deutschland</channel>
+		<channel lang="de" site_id="disney-channel-hd" xmltv_id="disneychannel.de">Disney Channel Deutschland</channel>
+		<channel lang="de" site_id="discovery-channel-hd" xmltv_id="discoverychannel.de">Discovery Channel Deutschland</channel>
+		<channel lang="de" site_id="die-neue-zeit-tv" xmltv_id="dieneuezeittv.ch">Die Neue Zeit TV</channel>
+		<channel lang="de" site_id="deutsches-musik-fernsehen" xmltv_id="deutschesmusikfernsehen.de">Deutsches Musik Fernsehen</channel>
+		<channel lang="de" site_id="deluxe-music-hd" xmltv_id="deluxemusic.de">Deluxe Music</channel>
+		<channel lang="de" site_id="das-erste-hd" xmltv_id="daserste.de">Das Erste</channel>
+		<channel lang="de" site_id="comedy-central" xmltv_id="comedycentral.de">Comedy Central Deutschland</channel>
+		<channel lang="de" site_id="channel-21" xmltv_id="channel21.de">Channel 21</channel>
+		<channel lang="de" site_id="cartoon-network" xmltv_id="cartoonnetwork.de">Cartoon Network Deutschland</channel>
+		<channel lang="de" site_id="boomerang" xmltv_id="boomerang.de">Boomerang Deutschland</channel>
+		<channel lang="de" site_id="bloomberg-tv-europe" xmltv_id="bloombergtveurope.uk">Bloomberg TV Europe</channel>
+		<channel lang="de" site_id="bibel-tv-hd" xmltv_id="bibeltv.de">Bibel TV</channel>
+		<channel lang="de" site_id="bayerisches-fernsehen-hd" xmltv_id="brfernsehennord.de">Bayerisches Fernsehen Nord</channel>
+		<channel lang="de" site_id="axn-hd" xmltv_id="sonyaxn.de">Sony AXN</channel>
+		<channel lang="de" site_id="a-tv" xmltv_id="augsburgtv.de">Augsburg TV</channel>
+		<channel lang="de" site_id="atv2" xmltv_id="atv2.at">ATV 2</channel>
+		<channel lang="de" site_id="atv-hd" xmltv_id="atv.at">ATV</channel>
+		<channel lang="de" site_id="astrotv" xmltv_id="astrotv.de">AstroTV</channel>
+		<channel lang="de" site_id="arte-hd" xmltv_id="arte.de">ARTE Deutsch</channel>
+		<channel lang="de" site_id="ard-alpha" xmltv_id="ardalpha.de">ARD Alpha</channel>
+		<channel lang="de" site_id="anixe-hd" xmltv_id="anixehdserie.de">Anixe HD Serie</channel>
+		<channel lang="de" site_id="3sat-hd" xmltv_id="3sat.de">3sat</channel>
+		<channel lang="de" site_id="13th-street-hd" xmltv_id="13thstreet.de">13th Street Deutschland</channel>
+		<channel lang="de" site_id="1-2-3-tv-hd" xmltv_id="123tv.de">1-2-3 TV</channel>
+	</channels>
+</site>
