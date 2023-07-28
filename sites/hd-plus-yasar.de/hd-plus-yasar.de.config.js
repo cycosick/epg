@@ -9,10 +9,10 @@ dayjs.extend(timezone)
 dayjs.extend(customParseFormat)
 
 module.exports = {
-  site: 'hd-plus-yasar.de',
-  days: 3,
+  site: 'hd-plus.de',
+  days: 2,
   delay: 500,
-  maxConnections: 2,
+  maxConnections: 1,
   url({ date, channel }) {
     const today = dayjs().utc().startOf('d')
     const day = date.diff(today, 'd')
