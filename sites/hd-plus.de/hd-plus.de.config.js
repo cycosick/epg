@@ -11,6 +11,8 @@ dayjs.extend(customParseFormat)
 module.exports = {
   site: 'hd-plus.de',
   days: 2,
+  delay: 0,
+  maxConnections: 2,
   url({ date, channel }) {
     const today = dayjs().utc().startOf('d')
     const day = date.diff(today, 'd')
